@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Kitesurfing Wiki</title>
+    <link>https://kitesurfing.wiki/</link>
+    <description>Recent content in Introduction on Kitesurfing Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://kitesurfing.wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Directional</title>
+      <link>https://kitesurfing.wiki/equipment/boards/directional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kitesurfing.wiki/equipment/boards/directional/</guid>
+      <description>Directional #  </description>
+    </item>
+    
+    <item>
+      <title>Foil</title>
+      <link>https://kitesurfing.wiki/equipment/boards/foil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kitesurfing.wiki/equipment/boards/foil/</guid>
+      <description>Foil #  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kitesurfing.wiki/about/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kitesurfing.wiki/about/contact/</guid>
+      <description>Contact #  If you would like to contact us, please drop us a message at mail {at} kites*rfing.wiki.</description>
+    </item>
+    
+    <item>
+      <title>Foil Kites</title>
+      <link>https://kitesurfing.wiki/equipment/kites/foil_kites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kitesurfing.wiki/equipment/kites/foil_kites/</guid>
+      <description>Foil Kites #  </description>
+    </item>
+    
+    <item>
+      <title>LE Kites</title>
+      <link>https://kitesurfing.wiki/equipment/kites/le_kites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kitesurfing.wiki/equipment/kites/le_kites/</guid>
+      <description>LE Kites #  </description>
+    </item>
+    
+    <item>
+      <title>Naish</title>
+      <link>https://kitesurfing.wiki/brands/naish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kitesurfing.wiki/brands/naish/</guid>
+      <description>Naish #  Insert</description>
+    </item>
+    
+  </channel>
+</rss>
